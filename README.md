@@ -9,5 +9,5 @@ $ pkg update &&pkg upgrade
 $ pkg install python
 $ pkg install git
 $ git clone https://github.com/JackLucifer18/Shadow_Jack_Tio.git
-$ cd Shadow_Jack
+$ cd Shadow_Jack_Tio
 $ python3 main.py
