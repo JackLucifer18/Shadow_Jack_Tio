@@ -28,7 +28,7 @@ def PrivPol():
 	system ("clear")
 
 def Name():
-	system ("figlet -f block.flf 'Selamat Datang Revan' | lolcat")
+	system ("figlet -f block.flf 'Selamat Datang Tio' | lolcat")
 	
 def Running():
 	print ("\n\t°•°•°•°•°•°•° PROSES BERJALAN°•°•°•°•°•°•°\n")
